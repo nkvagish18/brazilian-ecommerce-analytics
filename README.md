@@ -1,4 +1,4 @@
-# 🇧🇷 Brazilian E-Commerce Analytics
+# Brazilian E-Commerce Analytics
 
 ### End-to-End SQL & Power BI Business Intelligence Project
 
